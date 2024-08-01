@@ -30,7 +30,7 @@ if page == "🔍 About Us":
     st.title("About Us")
     
      # Display images
-    st.image("WhatsApp Image 2024-07-28 at 3.08.06 AM.jpeg", caption="John", use_column_width=True)
+    st.image("WhatsApp Image 2024-07-28 at 3.08.06 AM.jpeg", caption="Wong Joon Ee", use_column_width=True)
     #st.image("path_to_image2.jpg", caption="Team Member 2", use_column_width=True)
     
     st.markdown("""
@@ -47,7 +47,7 @@ if page == "🔍 About Us":
     
     
 
-    - **John** - Data Scientist: With expertise in machine learning and statistical analysis, John leads the development of our predictive models.
+    - **Wong Joon Ee** - Data Scientist: With expertise in machine learning and statistical analysis, John leads the development of our predictive models.
     - **John** - Real Estate Expert: Jane's deep understanding of the real estate market helps us tailor our models to real-world conditions.
     - **Rikhi** - Software Engineer: Alex ensures that our tools are user-friendly and technically robust, providing seamless experiences for our users.
     - **John** - UI/UX Designer: Emily designs our interfaces to be intuitive and engaging, focusing on delivering a great user experience.
