@@ -7,3 +7,4 @@ seaborn
 sckitlearn
 statsmodel
 folium 
+streamlit_folium
