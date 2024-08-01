@@ -133,9 +133,9 @@ if page == "🏠 Introduction":
     """)
     
     # Video URL from GitHub
-    video_url =
+    video_url = https://www.pexels.com/video/kuala-lumpur-night-to-day-timelapse-18522098/
 # Embed the video
-    st.video(video_path)
+    st.video(video_url)
 
    # List of locations with their coordinates
     locations = {
