@@ -30,8 +30,8 @@ if page == "🔍 About Us":
     st.title("About Us")
     
      # Display images
-    st.image("https://github.com/cava-tina/Kuala-Lumpur-Property-Price-Prediction/blob/main/WhatsApp%20Image%202024-07-28%20at%203.08.06%20AM.jpeg?raw=true", caption="Wong Joon Ee", use_column_width=True)
-    #st.image("https://github.com/cava-tina/Kuala-Lumpur-Property-Price-Prediction/blob/main/WhatsApp%20Image%202024-07-28%20at%203.08.06%20AM.jpeg?raw=true", caption="Team Member 2", use_column_width=True)
+    st.image("WhatsApp Image 2024-07-28 at 3.08.06 AM.jpeg", caption="John", use_column_width=True)
+    #st.image("path_to_image2.jpg", caption="Team Member 2", use_column_width=True)
     
     st.markdown("""
     
@@ -132,10 +132,11 @@ if page == "🏠 Introduction":
     Explore the future of real estate with us and take the first step towards making smarter, data-driven property decisions. Welcome aboard!
     """)
     
-    # Video URL from GitHub
-    video_url = https://www.pexels.com/video/kuala-lumpur-night-to-day-timelapse-18522098/
+   # Path to your local MP4 file
+    video_path = '18522098-hd_1920_1080_30fps.mp4'
+
 # Embed the video
-    st.video(video_url)
+    st.video(video_path)
 
    # List of locations with their coordinates
     locations = {
