@@ -6,11 +6,11 @@ DataSet: https://www.kaggle.com/datasets/dragonduck/property-listings-in-kuala-l
 
 Support Document of testing and preprocessing: 
 
-A testlink hosted on Streamlit Cloud: 
+A testlink hosted on Streamlit Cloud: https://kuala-lumpur-property-price-prediction.streamlit.app/
 
-My edited dataset:
+My edited dataset:cleaned_data.csv 
 
-Streamlit source code: 
+Streamlit source code: dashboard.py
 
 How to run:
 
@@ -18,4 +18,6 @@ How to run:
 
 2) Streamlit run "/patch/to_your_file"
 
-3) Remember to download my "cleaned_data.csv" before run 
+3) Remember to download my "cleaned_data.csv" before run
+
+   
