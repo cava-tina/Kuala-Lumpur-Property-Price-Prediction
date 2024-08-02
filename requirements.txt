@@ -4,7 +4,7 @@ streamlit
 plotly
 numpy
 seaborn
-sckitlearn
+scikitlearn
 statsmodel
 folium 
 streamlit_folium
